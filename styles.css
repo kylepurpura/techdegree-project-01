@@ -165,6 +165,10 @@ a.github {
 a.social:hover {
   opacity: 1;
 }
+a.youtube {
+  text-decoration: underline;
+  color: blue;
+}
 .clearfix {
   clear: both;
 }
